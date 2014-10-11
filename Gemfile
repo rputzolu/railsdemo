@@ -18,7 +18,8 @@ gem 'rake', '~> 0.9.6'
 #
 group :development, :test do
   gem 'sqlite3'
-  gem 'minitest'
+  gem 'rspec-rails', "~> 3"
+  #gem 'minitest'
   gem 'thor'
 end
 
