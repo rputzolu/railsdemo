@@ -147,6 +147,12 @@ License
 -------
 
 This code is dedicated to the public domain to the maximum extent permitted by applicable law, pursuant to CC0 (http://creativecommons.org/publicdomain/zero/1.0/)
+--------
+# Ruby on Rails Tutorial: sample application
+This is the sample application for
+[*Ruby on Rails Tutorial: Learn Rails by Example*](http://railstutorial.org/)
+by [Michael Hartl](http://michaelhartl.com/).
 
 --------
 to run in cloud9:  'rails s -p $PORT -b $IP'
+
