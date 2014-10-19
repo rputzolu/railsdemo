@@ -20,6 +20,7 @@ group :development, :test do
   gem 'sqlite3'
   gem 'rspec-rails', "~> 3"
   #gem 'minitest'
+  gem 'capybara'
   gem 'thor'
 end
 
